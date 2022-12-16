@@ -8,7 +8,7 @@
 * __Phone__: +375298204558
 * __Email__: sahashik00@mail.ru
 * __Github__: evi11ove
-* __Discord__: KiroEvillove(@evi11ove)
+* __Discord__: Kiro_Evillove#7278
 
 *****
 
@@ -43,4 +43,4 @@ College of communication
 
 ## Language:
 * Russian
-* English
+* English (A2)
